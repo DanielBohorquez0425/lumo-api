@@ -11,3 +11,9 @@ node_modules/
 # Prisma
 /prisma/migrations/
 /prisma/*.db
+
+#package-lock.json
+package-lock.json
+
+#bun.lock
+bun.lock
